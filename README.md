@@ -64,7 +64,7 @@ To use the demo, follow the below steps:
   
 ## Future Improvements
 
-This script was designed as a quick demo and as a result some compromises were taken with design choices. Improvements would then focus around further factoring of methods and modules and an expansion of capabilities. See below for areas of potential improvement for the demo:
+This script was designed as a quick demo and as a result some compromises were taken with design choices. Focus of improvements are further factoring of methods and modules and an expansion of capabilities. See below for areas of potential improvement for the demo:
   
 * The demo was designed in one module which is somewhat appropriate for its current size (157 lines); it can be re-factored in the future to be cleaner and additional code should be abstracted into their own modules/classes.
 * The number of hard-coded strings for SQL statements and configuration can be decreased.
