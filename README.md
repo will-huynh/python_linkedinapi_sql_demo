@@ -53,6 +53,7 @@ To use the demo, follow the below steps:
 4. Once in the demo directory, start the demo by using the command *py demo.py* or *python demo.py*.
 5. A Google Chrome browser will open (controlled by Selenium); follow the prompts given in the command prompt window. The activities required of the user will be:
 > Signing into LinkedIn using the provided browser
+  
 > Authorizing the LinkedIn application to have access to the user's profile data
 
 6. Once the demo has finished operating successfully, a confirmation will be displayed as a log in the command prompt window.
