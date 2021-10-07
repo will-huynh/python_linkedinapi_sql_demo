@@ -28,8 +28,11 @@ The following is required to run this demo:
 2. Go to the cloned directory on your local machine and check for the latest version using git:
 
 > Open a command prompt with administrator rights
+
 > Navigate to the cloned *python_linkedinapi_sql_demo* directory using the command *cd <PARENT DIRECTORY>/python_linkedinapi_sql_demo* (ex: cd C:\Users\Guest\Documents\python_linkedinapi_sql_demo)
+
 > git branch master
+
 > git pull
 
 3. Download [ChromeDriver 94.0.4606.61](https://chromedriver.storage.googleapis.com/index.html?path=94.0.4606.61/) and extract the archive.
