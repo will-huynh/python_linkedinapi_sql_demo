@@ -68,7 +68,7 @@ This script was designed as a quick demo and as a result some compromises were t
   
 * The demo was designed in one module which is somewhat appropriate for its current size (157 lines); it can be re-factored in the future to be cleaner and additional code should be abstracted into their own modules/classes.
 * The number of hard-coded strings for SQL statements and configuration can be decreased.
-* The demo can automatic initialization of services (ex: downloading ChromeDriver, creating database, starting server, automatically returning a table view).
+* The demo can automatic initialization of services (ex: downloading ChromeDriver, creating database, starting server, automatically returning a table view) using a framework such as node.js.
 * Different types of data can be collected from LinkedIn though this is somewhat outside the scope of the demo.
 * The Selenium-controlled browser window and inputs can be integrated into the console view instead.
 * More organized logs or a graphical view can be included.
